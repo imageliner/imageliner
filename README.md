@@ -7,7 +7,7 @@ New game developer diving into the industry, focusing in Unity and C#. My goal i
 
 Programming languages: C# (primary), with small experience in C++ and SQL
 
-Game Engines: Unity (priamry), small experience in Unreal
+Game Engines: Unity (primary), small experience in Unreal
 
 ### My Work and Projects
 
