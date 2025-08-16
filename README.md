@@ -1,12 +1,17 @@
 # About Me
 
-New game developer diving into the industry, focusing in Unity and C#. I am here to bring my lifetime hobby of gaming and art to life in one medium. 
+New game developer diving into the industry, focusing in Unity and C#. My goal is to bring my lifetime passion for gaming and art together into interactive experiences.
 
 ### Skills
-8 Years + of 3D art knowledge, mainly Blender but also Maya and 3DMax. This includes polygon modeling, sculpting, rigging, and animating.
+3D Art (8+ years): Blender (primary), Maya, and 3ds Max. This includes polygon modeling, sculpting, rigging, and animating.
 
-Programming languages: primarily C#, some C++ and SQL databasing
+Programming languages: C# (primary), with small experience in C++ and SQL
+
+Game Engines: Unity (priamry), small experience in Unreal
 
 ### My Work and Projects
 
-TBA
+Work In Progress
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://imageliner.itch.io)
