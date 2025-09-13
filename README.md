@@ -14,6 +14,9 @@ Game Engines: Unity (primary), small experience in Unreal
 Work In Progress
 
 Main Project: [Objects](https://imageliner.itch.io/objects) password: objects 
+
+[![thumbnail](https://i.imgur.com/UOLLbIK.png)](https://imageliner.itch.io/objects)
+
  - About: Small and quick 2D shooter game made for a course, showcasing knowledge designing and coding a short gameplay loop.
 
 ## 🔗 Links
