@@ -13,7 +13,7 @@ Game Engines: Unity (primary), small experience in Unreal
 
 Work In Progress
 
-Small game made for a course: ![Objects](https://imageliner.itch.io/objects) password: objects
+Small game made for a course: [Objects]([url](https://imageliner.itch.io/objects)) password: objects
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://imageliner.itch.io)
