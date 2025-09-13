@@ -9,7 +9,7 @@ Programming languages: C# (primary), with small experience in C++ and SQL
 
 Game Engines: Unity (primary), small experience in Unreal
 
-### My Work and Projects
+### My Games
 
 Work In Progress
 
