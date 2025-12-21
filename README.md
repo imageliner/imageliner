@@ -27,7 +27,7 @@ Side Project: [Objects](https://imageliner.itch.io/objects) password: objects
 
 [![thumbnail](https://i.imgur.com/UOLLbIK.png)](https://imageliner.itch.io/objects)
 
- - About: Small and quick 2D shooter game made for a course, showcasing knowledge designing and coding a short gameplay loop.
+ - About: Small and quick 2D shooter game, showcasing knowledge designing and coding a short gameplay loop.
 
 ## 🔗 Links
 [![portfolio](https://upload.wikimedia.org/wikipedia/commons/7/79/Itch.io_logo.svg)](http://imageliner.itch.io)
