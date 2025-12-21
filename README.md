@@ -11,9 +11,19 @@ Game Engines: Unity (primary), small experience in Unreal
 
 ### My Games
 
-Work In Progress
+Main Project: [Crusade Tower](https://imageliner.itch.io/crusadetower) password: imageliner 
 
-Main Project: [Objects](https://imageliner.itch.io/objects) password: objects 
+[![thumbnail](https://i.imgur.com/Nw949aC.png)](https://imageliner.itch.io/crusadetower)
+
+ - About: A top down Action RPG Roguelike where you dive into dungeons, level up your character, and find rare loot.
+
+Side Project: [StarCrash](https://imageliner.itch.io/starcrash) password: starcrash 
+
+[![thumbnail](https://i.imgur.com/dWDNaXM.png)](https://imageliner.itch.io/starcrash)
+
+ - About: A very short puzzle game focusing on using your star companion to help you get through the challenges presented.
+
+Side Project: [Objects](https://imageliner.itch.io/objects) password: objects 
 
 [![thumbnail](https://i.imgur.com/UOLLbIK.png)](https://imageliner.itch.io/objects)
 
