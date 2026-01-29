@@ -11,7 +11,7 @@ Game Engines: Unity (primary), small experience in Unreal
 
 ### My Games
 
-Main Project: [Crusade Tower](https://imageliner.itch.io/crusadetower) password: imageliner 
+Main Project: [Crusade Tower](https://imageliner.itch.io/crusadetower) [Repository](https://github.com/imageliner/ProjectMagic/tree/main)
 
 [![thumbnail](https://i.imgur.com/Nw949aC.png)](https://imageliner.itch.io/crusadetower)
 
